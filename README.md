@@ -34,6 +34,11 @@ For this project, the database only has no more than 200 samples, which is not s
 	trainning took: 6.9451sec.
 	Single image detection took: 5.1516 sec.
   ```
+<p float="left">
+<img src="https://user-images.githubusercontent.com/89951560/212217224-bf6738bb-71dd-4731-a088-eefece23f601.png" width="333" />
+<img src="https://user-images.githubusercontent.com/89951560/212217233-be7846af-9692-4846-a631-d08f3d6295ea.png" width="333" /> 
+<img src="https://user-images.githubusercontent.com/89951560/212217242-440d6774-f647-447c-a93b-69cff328a156.png" width="333" /> 
+</p>
 
 ## Discussion 
 
