@@ -1,8 +1,5 @@
 # BrainCorp_Phone_Finder
 
-Phone Detector Project
-Shusen Lin, 1/10/2023
-
 ## Models Requirements
   ```Numpy, OpenCV, Scikit-learn, Scikit-image, Pqdict```
        
