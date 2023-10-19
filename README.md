@@ -1,4 +1,4 @@
-# BrainCorp_Phone_Finder
+# Phone_Finder
 
 ## Models Requirements
   ```Numpy, OpenCV, Scikit-learn, Scikit-image, Pqdict```
